@@ -94,9 +94,7 @@
 
 # 🐍 **Contribution Snake Graph**
 
-```md
 ![snake gif](https://github.com/kaushalbansal222/kaushalbansal222/blob/output/github-contribution-grid-snake.svg)
-```
 
 ---
 
