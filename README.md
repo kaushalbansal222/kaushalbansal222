@@ -37,29 +37,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-FF8F00?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 
 ---
-
-# 📌 ** Projects **
-
----
-
-# 📊 **GitHub Stats (Vision-Friendly Dark)**
-
-### 🔥 Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kaushalbansal222\&theme=vision-friendly-dark\&hide_border=true)
-
-### 📈 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalbansal222\&layout=compact\&theme=vision-friendly-dark\&hide_border=true)
-
----
-
-# 🐍 **Contribution Snake Graph**
-
-![snake gif](https://github.com/kaushalbansal222/kaushalbansal222/blob/output/github-contribution-grid-snake.svg)
-
----
-
 # 🌱 **Currently Learning**
 
 * Machine Learning Algorithms
