@@ -1,0 +1,6 @@
+1_BreastCancerPrediction.svg
+2_CustomerPurchasePrediction.svg
+3_SalesCustomerDashboard.svg
+4_AmazonSalesDataAnalysis.svg
+5_OnlineRetailSalesAnalysis.svg
+6_HotelBookingAnalysis.svg
