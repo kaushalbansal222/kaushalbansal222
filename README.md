@@ -1,16 +1,123 @@
-## Hi there 👋
 
-<!--
-**kaushalbansal222/kaushalbansal222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌿 **Hey, I'm Kaushal**
 
-Here are some ideas to get you started:
+### <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&color=7BA7F7&width=500&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast;Building+Projects+That+Tell+Stories" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌸 **About Me**
+
+* 📊 Aspiring **Data Analyst** passionate about data storytelling
+* 🐍 Skilled in **Python, SQL, Excel, Power BI**, and ML techniques
+* 📈 Love exploring business problems, trends, and behavior patterns using data
+* 🧪 Growing daily through applied projects & real datasets
+* 🎯 Goal: Combine analytics + ML to solve meaningful business problems
+
+---
+
+## 🛠️ **Tech & Tools**
+
+### **Languages & Analytics**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-643B9F?style=for-the-badge\&logo=apachespark\&logoColor=white)
+
+### **Data & BI Tools**
+
+![Power BI](https://img.shields.io/badge/PowerBI-303030?style=for-the-badge\&logo=powerbi\&logoColor=F2C811)
+![Excel](https://img.shields.io/badge/Advanced_Excel-0E7A0D?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![Amplitude](https://img.shields.io/badge/Amplitude-0736A0?style=for-the-badge\&logo=amplitude\&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-CC5200?style=for-the-badge\&logo=google-analytics\&logoColor=white)
+
+### **Development & ML**
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0B5FFF?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-FF8F00?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+
+---
+
+# 📌 **Pinned Projects (Vision-Friendly Dark)**
+
+### 🔹 **Breast Cancer Prediction (ML)**
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kaushalbansal222\&repo=Breast-Cancer-Prediction-Using-Machine-Learning\&theme=vision-friendly-dark\&hide_border=true)](https://github.com/kaushalbansal222/Breast-Cancer-Prediction-Using-Machine-Learning)
+
+---
+
+### 🔹 **Customer Purchase Prediction — Decision Tree & Logistic Regression**
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kaushalbansal222\&repo=Customer-Purchase-Prediction-using-Decision-Tree-and-Logistic-Regression\&theme=vision-friendly-dark\&hide_border=true)](https://github.com/kaushalbansal222/Customer-Purchase-Prediction-using-Decision-Tree-and-Logistic-Regression)
+
+---
+
+### 🔹 **Sales & Customer Performance Dashboard (Power BI)**
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kaushalbansal222\&repo=Sales-And-Customer-Performance-Dashboard-PowerBI\&theme=vision-friendly-dark\&hide_border=true)](https://github.com/kaushalbansal222/Sales-And-Customer-Performance-Dashboard-PowerBI)
+
+---
+
+### 🔹 **Amazon Sales Data Analysis**
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kaushalbansal222\&repo=Amazon-Sales-Data-Analysis\&theme=vision-friendly-dark\&hide_border=true)](https://github.com/kaushalbansal222/Amazon-Sales-Data-Analysis)
+
+---
+
+### 🔹 **Online Retail Sales Data Analysis**
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kaushalbansal222\&repo=Online-Retail-Sales-Data-Analysis-\&theme=vision-friendly-dark\&hide_border=true)](https://github.com/kaushalbansal222/Online-Retail-Sales-Data-Analysis-)
+
+---
+
+### 🔹 **Hotel Booking Analysis (Python)**
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kaushalbansal222\&repo=Hotel-Booking-Analysis-using-Python-\&theme=vision-friendly-dark\&hide_border=true)](https://github.com/kaushalbansal222/Hotel-Booking-Analysis-using-Python-)
+
+---
+
+# 📊 **GitHub Stats (Vision-Friendly Dark)**
+
+### ⭐ Profile Stats
+
+![Kaushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushalbansal222\&show_icons=true\&theme=vision-friendly-dark\&hide_border=true)
+
+### 🔥 Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kaushalbansal222\&theme=vision-friendly-dark\&hide_border=true)
+
+### 📈 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalbansal222\&layout=compact\&theme=vision-friendly-dark\&hide_border=true)
+
+---
+
+# 🐍 **Contribution Snake Graph**
+
+```md
+![snake gif](https://github.com/kaushalbansal222/kaushalbansal222/blob/output/github-contribution-grid-snake.svg)
+```
+
+---
+
+# 🌱 **Currently Learning**
+
+* Machine Learning Algorithms
+* BI Dashboard Optimization
+* SQL for Analytics
+* Feature Engineering & EDA
+
+---
+
+# 💬 **Let’s Connect**
+
+📩 Open to collaborations, ideas, and data projects!
+💡 Always curious, always learning.
+
+---
+
+# ✨ **Final Touch**
+
+> *“Training myself like an ML model — lots of data, continuous learning, steady improvement.”*
+
+---
