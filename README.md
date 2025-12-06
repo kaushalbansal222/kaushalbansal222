@@ -38,49 +38,59 @@
 
 ---
 
-# 📌 **Pinned Projects (Vision-Friendly Dark)**
+# 📌 ** Projects **
 
-### 🔹 **Breast Cancer Prediction (ML)**
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/kaushalbansal222/Breast-Cancer-Prediction-Using-Machine-Learning">
+        <img src="assets/cards/1_BreastCancerPrediction.svg" width="260px">
+        <br><b>Breast Cancer Prediction</b>
+      </a>
+    </td>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kaushalbansal222\&repo=Breast-Cancer-Prediction-Using-Machine-Learning\&theme=vision-friendly-dark\&hide_border=true)](https://github.com/kaushalbansal222/Breast-Cancer-Prediction-Using-Machine-Learning)
+    <td align="center" width="33%">
+      <a href="https://github.com/kaushalbansal222/Customer-Purchase-Prediction-using-Decision-Tree-and-Logistic-Regression">
+        <img src="assets/cards/2_CustomerPurchasePrediction.svg" width="260px">
+        <br><b>Customer Purchase Prediction</b>
+      </a>
+    </td>
 
----
+    <td align="center" width="33%">
+      <a href="https://github.com/kaushalbansal222/Sales-And-Customer-Performance-Dashboard-PowerBI">
+        <img src="assets/cards/3_SalesCustomerDashboard.svg" width="260px">
+        <br><b>Sales & Customer Dashboard</b>
+      </a>
+    </td>
+  </tr>
 
-### 🔹 **Customer Purchase Prediction — Decision Tree & Logistic Regression**
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/kaushalbansal222/Amazon-Sales-Data-Analysis">
+        <img src="assets/cards/4_AmazonSalesDataAnalysis.svg" width="260px">
+        <br><b>Amazon Sales Data Analysis</b>
+      </a>
+    </td>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kaushalbansal222\&repo=Customer-Purchase-Prediction-using-Decision-Tree-and-Logistic-Regression\&theme=vision-friendly-dark\&hide_border=true)](https://github.com/kaushalbansal222/Customer-Purchase-Prediction-using-Decision-Tree-and-Logistic-Regression)
+    <td align="center" width="33%">
+      <a href="https://github.com/kaushalbansal222/Online-Retail-Sales-Data-Analysis-">
+        <img src="assets/cards/5_OnlineRetailSalesAnalysis.svg" width="260px">
+        <br><b>Online Retail Sales Analysis</b>
+      </a>
+    </td>
 
----
-
-### 🔹 **Sales & Customer Performance Dashboard (Power BI)**
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kaushalbansal222\&repo=Sales-And-Customer-Performance-Dashboard-PowerBI\&theme=vision-friendly-dark\&hide_border=true)](https://github.com/kaushalbansal222/Sales-And-Customer-Performance-Dashboard-PowerBI)
-
----
-
-### 🔹 **Amazon Sales Data Analysis**
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kaushalbansal222\&repo=Amazon-Sales-Data-Analysis\&theme=vision-friendly-dark\&hide_border=true)](https://github.com/kaushalbansal222/Amazon-Sales-Data-Analysis)
-
----
-
-### 🔹 **Online Retail Sales Data Analysis**
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kaushalbansal222\&repo=Online-Retail-Sales-Data-Analysis-\&theme=vision-friendly-dark\&hide_border=true)](https://github.com/kaushalbansal222/Online-Retail-Sales-Data-Analysis-)
-
----
-
-### 🔹 **Hotel Booking Analysis (Python)**
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kaushalbansal222\&repo=Hotel-Booking-Analysis-using-Python-\&theme=vision-friendly-dark\&hide_border=true)](https://github.com/kaushalbansal222/Hotel-Booking-Analysis-using-Python-)
+    <td align="center" width="33%">
+      <a href="https://github.com/kaushalbansal222/Hotel-Booking-Analysis-using-Python-">
+        <img src="assets/cards/6_HotelBookingAnalysis.svg" width="260px">
+        <br><b>Hotel Booking Analysis</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 # 📊 **GitHub Stats (Vision-Friendly Dark)**
-
-### ⭐ Profile Stats
-
-![Kaushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushalbansal222\&show_icons=true\&theme=vision-friendly-dark\&hide_border=true)
 
 ### 🔥 Streak
 
