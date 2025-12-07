@@ -40,20 +40,15 @@
 # 🌱 **Currently Learning**
 
 * Machine Learning Algorithms
-* BI Dashboard Optimization
-* SQL for Analytics
-* Feature Engineering & EDA
 
 ---
 
 # 💬 **Let’s Connect**
 
-📩 Open to collaborations, ideas, and data projects!
+📩 Open to collaborations, ideas and interesting datasets!
 💡 Always curious, always learning.
 
 ---
-
-# ✨ **Final Touch**
 
 > *“Training myself like an ML model — lots of data, continuous learning, steady improvement.”*
 
