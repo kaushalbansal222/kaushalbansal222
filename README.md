@@ -1,13 +1,13 @@
 
 # 🌿 **Hey, I'm Kaushal**
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&color=7BA7F7&width=500&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast;Building+Projects+That+Tell+Stories" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&color=7BA7F7&width=500&lines=Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast;Building+Projects+That+Tell+Stories" />
 
 ---
 
 ## 🌸 **About Me**
 
-* 📊 Aspiring **Data Analyst** passionate about data storytelling
+* 📊 Aspiring **Data Scientist** passionate about data storytelling
 * 🐍 Skilled in **Python, SQL, Excel, Power BI**, and ML techniques
 * 📈 Love exploring business problems, trends, and behavior patterns using data
 * 🧪 Growing daily through applied projects & real datasets
